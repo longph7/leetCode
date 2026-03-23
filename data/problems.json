@@ -1,0 +1,29 @@
+[
+  {
+    "id": "lru-cache",
+    "title_cn": "LRU 缓存",
+    "topic": "design",
+    "date": "2026-03-09",
+    "status": "done",
+    "review_status": "need-review",
+    "notes": ""
+  },
+  {
+    "id": "binary-tree-level-order-traversal",
+    "title_cn": "二叉树层序遍历",
+    "topic": "tree",
+    "date": "2026-03-10",
+    "status": "done",
+    "review_status": "reviewing",
+    "notes": "考虑删除之后队列会变化的问题"
+  },
+  {
+    "id": "maximum-subarray",
+    "title_cn": "最大子数组和",
+    "topic": "dp",
+    "date": "2026-03-23",
+    "status": "done",
+    "review_status": "need-review",
+    "notes": "贪心解法基本掌握，但边界处理和返回值还需注意"
+  }
+]

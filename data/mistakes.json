@@ -1,0 +1,30 @@
+[
+  {
+    "problem_id": "lowest-common-ancestor-of-a-binary-tree",
+    "title_cn": "最近的公共祖先",
+    "date": "2026-03-10",
+    "mistake_type": "state-definition",
+    "detail": "没理解返回值的含义"
+  },
+  {
+    "problem_id": "maximum-subarray",
+    "title_cn": "最大子数组和",
+    "date": "2026-03-22",
+    "mistake_type": "not-mastered",
+    "detail": "分治法还要再看"
+  },
+  {
+    "problem_id": "maximum-subarray",
+    "title_cn": "最大子数组和",
+    "date": "2026-03-23",
+    "mistake_type": "boundary-handling",
+    "detail": "循环起点应从1开始而非0"
+  },
+  {
+    "problem_id": "maximum-subarray",
+    "title_cn": "最大子数组和",
+    "date": "2026-03-23",
+    "mistake_type": "state-definition",
+    "detail": "返回值选错变量（应返回全局最大而非当前累加）"
+  }
+]
